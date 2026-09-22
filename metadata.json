@@ -1,0 +1,8 @@
+{
+  "name": "Scale Marketing Agency",
+  "description": "Scale Marketing Agency delivers strategic digital marketing, web development, analytics, and creative services designed to build sustainable business growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
